@@ -1,0 +1,22 @@
+body{
+    text-align:center;
+    background-color: lightcoral;
+  }
+  #firstp{
+    word-spacing:10px;
+    font-variant:small-caps;
+    font-size:80px;
+    color:#F44336;
+  }
+  #reasontext{
+    font-size:50px;
+    color:#689F38;
+  }
+  #album{
+    border-style:dashed;
+    border-color:#0277BD;
+    padding:8px;
+    border-radius:75px;
+   width:500px; 
+
+  }
